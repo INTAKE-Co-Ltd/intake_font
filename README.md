@@ -6,7 +6,7 @@
 ## 폰트 다운로드(OTF, TTF)
 
 - [OTF](https://github.com/intakefoods/intake_font/raw/master/Intake%20Morningjook.otf)
-- [TTF](https://github.com/intakefoods/intake_font/raw/master/Intake%20Morningjook.tf)
+- [TTF](https://github.com/intakefoods/intake_font/raw/master/Intake%20Morningjook.ttf)
 
 
 ## 폰트 설치 방법
